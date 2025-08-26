@@ -1,1 +1,1 @@
-# manin-rr
+Rapid Resolve : 
